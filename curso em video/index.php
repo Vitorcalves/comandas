@@ -6,6 +6,7 @@
     <link rel="stylesheet" href="estilos/stilo.css">
     <title>Document</title>
 </head>
+
 <body>
     <div id="corpo">
         <h1>escolha seu jogo</h1>
